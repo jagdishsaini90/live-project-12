@@ -1,4 +1,4 @@
-# Hosting Landing Page
+# Business Landing Page
 
 > A landing page designed using pure HTML & CSS.
 
